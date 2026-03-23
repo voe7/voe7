@@ -1,27 +1,48 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
-- 🤔 Perhaps I don't have much time to write code....
-<!--
-**tidik/tidik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a JavaScript / TypeScript developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 Currently exploring modern web development & tooling
+- ⚡ Building things when I have time (and energy)
+- 🤔 Still figuring things out, one commit at a time
 
-- ⚡ Fun fact: ...
--->
+---
 
-## 🔭 Current state
+## 🔭 Current State
 
-![BaLEE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tidik&show_icons=true&theme=ambient_gradient) 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tidik&show_icons=true&theme=ambient_gradient" />
+</p>
 
-## 😄 Language
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidik&theme=calm&layout=compact)
+## 🧠 Tech Focus
 
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react" />
+</p>
 
+---
+
+## 😄 Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tidik&theme=calm&layout=compact" />
+</p>
+
+---
+
+## 🧩 A Bit More About Me
+
+- 🕒 Coding when time allows
+- 🧠 Interested in clean code & simple design
+- 🚧 Not always productive, but always thinking
+
+---
+
+## ✨ Motto
+
+> "Keep it simple. Make it work. Then make it better."
