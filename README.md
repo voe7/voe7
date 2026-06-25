@@ -30,7 +30,7 @@ I'm a JavaScript / TypeScript developer.
 ## 😄 Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tidik&theme=calm&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voe7&theme=calm&layout=compact" />
 </p>
 
 ---
