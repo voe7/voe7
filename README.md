@@ -11,7 +11,7 @@ I'm a JavaScript / TypeScript developer.
 ## 🔭 Current State
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tidik&show_icons=true&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voe7&show_icons=true&theme=ambient_gradient" />
 </p>
 
 ---
