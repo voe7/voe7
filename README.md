@@ -8,7 +8,34 @@
 
 ---
 
-## 🔭 Current State
+## 🔭 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/voe7/voe7/output/profile-3d-contrib/profile-night-rainbow.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/voe7/voe7/output/profile-3d-contrib/profile-green.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/voe7/voe7/output/profile-3d-contrib/profile-green.svg"
+      alt="GitHub 3D Contribution Graph"
+    />
+  </picture>
+</p>
+
+---
+
+## 🧠 Tech Focus
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react" />
+</p>
+
+---
 
 <p align="center">
   <picture>
@@ -25,22 +52,6 @@
     src="https://raw.githubusercontent.com/voe7/voe7/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</p>
-
----
-
-## 🧠 Tech Focus
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react" />
-</p>
-
----
-
-## 📊 Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voe7&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
